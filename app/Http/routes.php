@@ -20,6 +20,7 @@ Route::controllers([
 	'password' => 'Auth\PasswordController',
 ]);
 
-Route::get('/index', function() {
-	return view('index');
+Route::get('/index', function() 
+{
+	return 'hello world!';
 });
