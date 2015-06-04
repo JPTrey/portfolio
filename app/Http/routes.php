@@ -22,5 +22,5 @@ Route::controllers([
 
 Route::get('/index', function() 
 {
-	return 'hello world!';
+	return view('index');
 });
