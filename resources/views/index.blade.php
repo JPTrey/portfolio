@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>The Homepage of Jon Paul</title>
-    <link href="Content/bootstrap.min.css" rel="stylesheet" />
-    <link href="Content/style.css" rel="stylesheet" />
-    <script src="Scripts/jquery-1.9.0.min.js"></script>
-    <script src="Scripts/bootstrap.min.js"></script>
-    <script src="Scripts/jquery.visible.min.js"></script>
-    <script src="Scripts/parallax.js"></script>
+    <link href="{{asset('Content/bootstrap.min.css')}}" rel="stylesheet" />
+    <link href="{{asset('Content/style.css')}}" rel="stylesheet" />
+    <script src="{{asset('Scripts/jquery-1.9.0.min.js')}}"></script>
+    <script src="{{asset('Scripts/bootstrap.min.js')}}"></script>
+    <script src="{{asset('Scripts/jquery.visible.min.js')}}"></script>
+    <script src="{{asset('Scripts/parallax.js')}}"></script>
 </head>
 <body>
 
