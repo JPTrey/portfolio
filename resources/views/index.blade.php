@@ -68,7 +68,7 @@
     </div>
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
-            <a class="btn btn-primary btn-block" href="http://gasciousapp.azurewebsites.net">Visit this site</a>
+            <a class="btn btn-primary btn-block" href="{{url('/gascious')}}">Visit this site</a>
         </div>
     </div>
     <hr />
@@ -96,7 +96,7 @@
         <br />
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
-                <a class="btn btn-success btn-block" href="http://wjbuilders.azurewebsites.net">Visit limited preview</a>
+                <a class="btn btn-success btn-block" href="{{url('/jones')}}">Visit limited preview</a>
             </div>
         </div>
         <hr />
@@ -129,7 +129,7 @@
     <br />
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
-            <a class="btn btn-primary btn-block" href="http://startwatch.azurewebsites.net">Visit this site</a>
+            <a class="btn btn-primary btn-block" href="{{url('/StartWatch')}}">Visit this site</a>
         </div>
     </div>
     <hr />
@@ -160,7 +160,7 @@
         <br />
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
-                <a class="btn btn-success btn-block" href="http://mobileawkwardzombie.azurewebsites.net/">Visit limited preview</a>
+                <a class="btn btn-success btn-block" href="{{url('/zombie')}}">Visit limited preview</a>
             </div>
         </div>
         <hr />
