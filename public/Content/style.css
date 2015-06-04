@@ -1,0 +1,161 @@
+﻿body {
+}
+
+hgroup > h1, hgroup > h2 {
+    margin: 20px 0 20px 0;
+}
+
+#resume-link {
+    text-decoration: underline;
+    color: #1d1d1d;
+}
+
+    #resume-link:hover {
+        text-decoration: none;
+        color: #1d1d1d;
+    }
+
+h1, h2, h3, h4, h5, h6, p, li {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+h1 {
+    font-size: 6em;
+}
+
+hr {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.featured {
+    margin-bottom: 100px;
+}
+
+.section {
+    margin-bottom: 75px;
+}
+
+.row {
+    margin: 0 0 0 0;
+    padding: 50px 0 0 0;
+}
+
+.invert {
+    background-color: #1d1d1d;
+    color: #FFF;
+}
+
+.well {
+    margin-top: 50px;
+}
+
+.well-invert {
+    margin-top: 50px;
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    background-color: #555555;
+    color: #FFF;
+}
+
+.img {
+    border: 2px black ridge;
+}
+
+.btn {
+    margin-bottom: 10px;
+}
+
+.project-title {
+    font-size: 5em;
+}
+
+.project-tagline {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.project-info {
+    font-size: 1.5em;
+}
+
+.project-tech {
+    font-size: 1em;
+    font-family: 'Courier New';
+}
+
+.container {
+    /*padding: 200px 100px;*/
+    height: 500px;
+    width: 100%;
+}
+
+.weblink-invert {
+    color: #e3e3e3;
+}
+
+    .weblink-invert:hover {
+        color: #FFF;
+    }
+
+.background-img {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#heading-row {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+#hand-img {
+    background: transparent url(../Images/hand-big-compress.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left center;
+    min-height: 945px;
+    color: #FFF;
+    padding: 20% 0 0 0;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+    #hand-img h1 {
+        font-size: 8em;
+    font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+    }
+
+    #hand-img > h2 {
+        font-size: 3em;
+    }
+
+#gascious-img {
+    background: transparent url(../Images/gascious-parallax.PNG);
+}
+
+#wjb-img {
+    background: transparent url(../Images/wjb.PNG);
+}
+
+#startwatch-img {
+    background: transparent url(../Images/startwatch-parallax.PNG);
+}
+
+#laz-img {
+    background: transparent url(../Images/laz.PNG);
+}
+
+#ffeud-img {
+    background: transparent url(../Images/ffeud.PNG);
+}
