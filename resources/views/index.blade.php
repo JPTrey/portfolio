@@ -202,45 +202,41 @@
         </div>
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
-                <a class="btn btn-default btn-block" href="https://github.com/JPTrey/family_feud">Get the source</a>
+                <a class="btn btn-default btn-block" href="https://github.com/JPTrey/family_feud">View on GitHub</a>
             </div>
         </div>
         <br />
     </div>
 
-    <div class="row">
-        <div class="col-sm-5 col-sm-offset-1">
-            <h2 class="text-center project-title">Mall Simulator</h2>
-            <h3 class="text-center project-tagline">An easy-to-follow parallel programming example.</h3>
-            <p class="text-center project-info">
-                Designed in collaboration with Modupe Theko Lekena and Nicholas Cleeves,
-                "Mall Simulator (2014)" is an open-source example of clear, modern, object-oriented
-                parallel programming in Java.  By setting parameters, users can observe customer traffic patterns,
-                optimal production and restocking times, and how one affects another.
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-6 col-sm-offset-1">
-            <div class="well">
-                <p class="project-tech">Built using:</p>
-                <ul>
-                    <li class="project-tech">Swing</li>
-                    <li class="project-tech">Eclipse</li>
-                    <li class="project-tech">Java</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-4 col-sm-offset-4">
-            <a class="btn btn-default btn-block" href="https://github.com/JPTrey/cs324-project3">Get the source</a>
-        </div>
-    </div>
-    <br />
-
-    <div class="invert">
+    
         <div class="row">
+            <div class="col-sm-5 col-sm-offset-1">
+                <h2 class="text-center project-title">Mall Simulator</h2>
+                <h3 class="text-center project-tagline">An easy-to-follow parallel programming example.</h3>
+                <p class="text-center project-info">
+                    Designed in collaboration with Modupe Theko Lekena and Nicholas Cleeves,
+                    "Mall Simulator (2014)" is an open-source example of clear, modern, object-oriented
+                    parallel programming in Java.  By setting parameters, users can observe customer traffic patterns,
+                    optimal production and restocking times, and how one affects another.
+                </p>
+                <div class="col-sm-12">
+                    <div class="well">
+                        <p class="project-tech">Built using:</p>
+                        <ul>
+                            <li class="project-tech">Swing</li>
+                            <li class="project-tech">Eclipse</li>
+                            <li class="project-tech">Java</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-10 col-sm-offset-1">
+                    <a class="btn btn-default btn-block" href="https://github.com/JPTrey/cs324-project3">View on GitHub</a>
+                </div>
+            </div>
+    <!-- </div> -->
+
+        <div>
+            <!-- <div class="row"> -->
             <div class="col-sm-5 col-sm-offset-1">
                 <h2 class="text-center project-title">Anagram Search Engine</h2>
                 <h3 class="text-center project-tagline">Developed with Ethan Formicelli</h3>
@@ -248,40 +244,47 @@
                     Served as co-developer and reporter for group project. Searches a sorted text dictionary
                     to match input strings to possible anagrams, using length and alphabetization as heuristics.
                 </p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 col-sm-offset-1">
-                <div class="well-invert">
+                <div class="col-sm-12">
+                    <div class="well">
 
-                <p class="project-tech">Built using:</p>
-                <ul>
-                    <li class="project-tech">C</li>
-                    <li class="project-tech">GCC</li>
-                </ul>
+                    <p class="project-tech">Built using:</p>
+                    <ul>
+                        <li class="project-tech">C</li>
+                        <li class="project-tech">GCC</li>
+                    </ul>
+                    </div>
+                </div>
+                <div class="col-sm-10 col-sm-offset-1">
+                    <a class="btn btn-default btn-block" href="https://github.com/JPTrey/anagram-search">View on GitHub</a>
                 </div>
             </div>
+            <!-- </div> -->
         </div>
-        <div class="row">
-            <div class="col-sm-4 col-sm-offset-4">
-                <a class="btn btn-default btn-block" href="https://github.com/JPTrey/anagram-search">Get the source</a>
-            </div>
-        </div>
-        <br />
     </div>
 
+    <div class="row">
+    </div>
+    <div class="row">
+    </div>
+    <br />
 
+    <div class="row">
+    <!-- </div> -->
+    <div class="row">
+    </div>
+</div>
+    <br />
 
     <!-- Contact links -->
 
-    <div class="row">
+    <div class="row invert">
         <h1 class="text-center section">More Info</h1>
     </div>
 
-    <div class="row invert">
-        <h1 class="text-center"><a class="weblink-invert" href="{{url('/files/Resume - Simonelli.pdf')}}">Resume</a></h1>
-        <h1 class="text-center"><a class="weblink-invert" href="http://onezedone.tumblr.com">Tumblr</a></h1>
-        <h1 class="text-center"><a class="weblink-invert" href="mailto:jonpaul.simonelli@gmail.com">Email</a></h1>
+    <div class="row">
+        <h1 class="text-center"><a class="weblink" href="{{url('/files/Resume - Simonelli.pdf')}}">Resume</a></h1>
+        <h1 class="text-center"><a class="weblink" href="http://onezedone.tumblr.com">Tumblr</a></h1>
+        <h1 class="text-center"><a class="weblink" href="mailto:jonpaul.simonelli@gmail.com">Email</a></h1>
     </div>
 
     <div class="row"></div>
