@@ -21,7 +21,7 @@
     <div class="row" id="heading-row">
         <div id="hand-img">
             <h1 class="text-center">The Homepage of Jon Paul</h1>
-            <h2 class="text-center">Web programmer specializing in PHP and C# development</h2>
+            <h2 class="text-center">Web programmer specializing in PHP, Java, and C# development</h2>
         </div>
     </div>
 
