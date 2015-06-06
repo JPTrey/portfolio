@@ -285,7 +285,7 @@
     </div>
 
     <div class="row">
-        <h1 class="text-center"><a class="weblink" href="{{url('/files/Resume - Simonelli.pdf')}}">Resume</a></h1>
+        <h1 class="text-center"><a class="weblink" href="{{url('/Content/Resume - Simonelli.pdf')}}">Resume</a></h1>
         <h1 class="text-center"><a class="weblink" href="http://onezedone.tumblr.com">Tumblr</a></h1>
         <h1 class="text-center"><a class="weblink" href="mailto:jonpaul.simonelli@gmail.com">Email</a></h1>
     </div>
