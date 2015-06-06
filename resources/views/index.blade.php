@@ -41,7 +41,7 @@
             <h2 class="text-center project-title">Gascious</h2>
             <h3 class="text-center project-tagline">For the gas-conscious.</h3>
             <p class="text-center project-info">
-                Track gas prices and engine effiency with Gascious,
+                Track gas prices and engine efficiency with Gascious,
                 the free gas log service that stores and analyses prices and mileage across vehicles, stations, and seasons.
             </p>
             <div class="well">
@@ -80,12 +80,15 @@
             <div class="col-sm-5 col-sm-offset-1">
                 <h2 class="text-center project-title">Woody Jones Builders</h2>
                 <h3 class="text-center project-tagline">A new home for a legendary home-builder.</h3>
+                <p class="text-center project-info">
+                    Built a front-end for displaying housing project galleries, and a contact page for interested customers. Also constructed a content-management system for adding and managing galleries.
+                </p>
                 <div class="well-invert">
                     <p class="project-tech">Built using:</p>
                     <ul>
-                        <li class="project-tech">PHP, JavaScript, HTML 5, CSS</li>
+                        <li class="project-tech">Laravel 5, jQuery, HTML 5, CSS 3</li>
                         <li class="project-tech">Bootstrap 3</li>
-                        <li class="project-tech">PHPMailer</li>
+                        <li class="project-tech">jCarousel</li>
                     </ul>
                 </div>
             </div>
@@ -210,7 +213,7 @@
 
     
         <div class="row">
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-1">
                 <h2 class="text-center project-title">Mall Simulator</h2>
                 <h3 class="text-center project-tagline">An easy-to-follow parallel programming example.</h3>
                 <p class="text-center project-info">
@@ -237,7 +240,7 @@
 
         <div>
             <!-- <div class="row"> -->
-            <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-4 col-sm-offset-2">
                 <h2 class="text-center project-title">Anagram Search Engine</h2>
                 <h3 class="text-center project-tagline">Developed with Ethan Formicelli</h3>
                 <p class="text-center project-info">
