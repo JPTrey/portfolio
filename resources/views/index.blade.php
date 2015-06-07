@@ -99,7 +99,7 @@
         <br />
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
-                <a class="btn btn-success btn-block" href="{{url('/jones')}}">Visit limited preview</a>
+                <a class="btn btn-success btn-block" href="wjb.jptrey.com">Visit limited preview</a>
             </div>
         </div>
         <hr />
