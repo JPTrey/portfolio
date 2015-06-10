@@ -36,46 +36,10 @@
 
     <!--h1 class="position_index">Current position: </h1-->
 
-    <div class="row">
-        <div class="col-sm-5 col-sm-offset-1">
-            <h2 class="text-center project-title">Gascious</h2>
-            <h3 class="text-center project-tagline">For the gas-conscious.</h3>
-            <p class="text-center project-info">
-                Track gas prices and engine efficiency with Gascious,
-                the free gas log service that stores and analyses prices and mileage across vehicles, stations, and seasons.
-            </p>
-            <div class="well">
-                <p class="project-tech">Built using:</p>
-                <ul>
-                    <li class="project-tech">ASP.NET MVC 5</li>
-                    <li class="project-tech">SQL Server 2014</li>
-                    <li class="project-tech">Azure Web Services</li>
-                    <li class="project-tech">C#, JavaScript, HTML 5, CSS</li>
-                    <li class="project-tech">Bootstrap 3</li>
-                    <li class="project-tech">JSChart</li>
-                </ul>
-            </div>
-        </div>
-        <div class="col-sm-5 col-sm-offset-1">
-            <div class="container" id="gascious-img">
-
-                <!--<img class="img img-responsive" src="/Images/gascious-pic.PNG" />-->
-            </div>
-        </div>
-    </div>
-    <br />
-    <div class="row">
-    </div>
-    <div class="row">
-        <div class="col-sm-4 col-sm-offset-4">
-            <a class="btn btn-primary btn-block" href="{{url('/gascious')}}">Visit this site</a>
-        </div>
-    </div>
-    <hr />
+    
 
     <!--h1 class="position_index">Current position: </h1-->
 
-    <div class="invert">
         <div class="row">
             <div class="col-sm-5 col-sm-offset-1">
                 <h2 class="text-center project-title">Woody Jones Builders</h2>
@@ -103,11 +67,40 @@
             </div>
         </div>
         <hr />
-    </div>
     <br />
 
     <!--h1 class="position_index">Current position: </h1-->
 
+    <div class="invert">
+    <div class="row">
+        <div class="col-sm-5 col-sm-offset-1">
+            <h2 class="text-center project-title">Shelf</h2>
+            <h3 class="text-center project-tagline">Read right.</h3>
+            <p class="text-center project-info">Store the web to read on your own time. <em>Shelf</em> removes all the excess, 
+            and organizes everything based on how it'll take you to read.</p>
+            <div class="well">
+                <p class="project-tech">Built using:</p>
+                <ul>
+                    <li class="project-tech">Laravel 5</li>
+                    <li class="project-tech">Laravel Forge</li>
+                    <li class="project-tech">C#, jQuery, AJAX, MySQL, HTML 5, CSS</li>
+                    <li class="project-tech">Bootstrap 3</li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-5 col-sm-offset-1">
+            <div class="container" id="shelf-img"></div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-sm-4 col-sm-offset-4">
+            <a class="btn btn-primary btn-block" href="http://shelf.jptrey.com">Visit this site</a>
+        </div>
+    </div>
+    <hr />
+    </div>
+    
     <div class="row">
         <div class="col-sm-5 col-sm-offset-1">
             <h2 class="text-center project-title">StartWatch</h2>
