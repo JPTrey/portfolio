@@ -78,7 +78,7 @@
             <h3 class="text-center project-tagline">Read right.</h3>
             <p class="text-center project-info">Store the web to read on your own time. <em>Shelf</em> removes all the excess, 
             and organizes everything based on how it'll take you to read.</p>
-            <div class="well invert">
+            <div class="well-invert">
                 <p class="project-tech">Built using:</p>
                 <ul>
                     <li class="project-tech">Laravel 5</li>
@@ -100,6 +100,7 @@
     </div>
     <hr />
     </div>
+    <br>
     
     <div class="row">
         <div class="col-sm-5 col-sm-offset-1">
@@ -129,6 +130,7 @@
         </div>
     </div>
     <hr />
+    <br>
 
     <!--h1 class="position_index">Current position: </h1-->
 
@@ -141,7 +143,7 @@
                 Track gas prices and engine efficiency with Gascious,
                 the free gas log service that stores and analyses prices and mileage across vehicles, stations, and seasons.
             </p>
-            <div class="well">
+            <div class="well-invert">
                 <p class="project-tech">Built using:</p>
                 <ul>
                     <li class="project-tech">ASP.NET MVC 5</li>
