@@ -47,7 +47,7 @@
                 <p class="text-center project-info">
                     Built a front-end for displaying housing project galleries, and a contact page for interested customers. Also constructed a content-management system for adding and managing galleries.
                 </p>
-                <div class="well-invert">
+                <div class="well">
                     <p class="project-tech">Built using:</p>
                     <ul>
                         <li class="project-tech">Laravel 5</li>
