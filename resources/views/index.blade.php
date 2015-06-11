@@ -22,6 +22,11 @@
         <div id="hand-img">
             <h1 class="text-center">The Homepage of Jon Paul</h1>
             <h2 class="text-center">Web programmer specializing in PHP, Java, and C# development</h2>
+            <div class="text-center">
+                <h2 class="text-left weblink"><a href="{{asset('/Content/Resume.pdf')}}">Resume <span class="glyphicon glyphicon-briefcase"></span></a></h2>
+                <h2 class="text-right weblink"><a href="https://www.linkedin.com/pub/jon-paul-simonelli/47/373/a6b">LinkedIn <span class="glyphicon glyphicon-user"></span></a></h2>
+                <h2 class="text-center weblink"><a href="http://onezedone.tumblr.com">Blog <span class="glyphicon glyphicon-align-left"></span></a></h2>
+            </div>
         </div>
     </div>
 
@@ -65,8 +70,7 @@
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
                 <a class="btn btn-success btn-block" href="http://wjb.jptrey.com">Visit limited preview</a>
-                <br>
-                <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/wjbuilders">View on GitHub</a>
+                <a class="btn btn-default btn-block" href="http://github.com/JPTrey/wjbuilders">View on GitHub</a>
             </div>
         </div>
         <hr />
@@ -99,8 +103,7 @@
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <a class="btn btn-primary btn-block" href="http://shelf.jptrey.com">Visit this site</a>
-            <br>
-            <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/shelf">View on GitHub</a>
+            <a class="btn btn-default btn-block" href="http://github.com/JPTrey/shelf">View on GitHub</a>
         </div>
     </div>
     <hr />
@@ -132,8 +135,7 @@
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <a class="btn btn-primary btn-block" href="http://startwatch.azurewebsites.net">Visit this site</a>
-            <br>
-            <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/startwatch">View on GitHub</a>
+            <a class="btn btn-default btn-block" href="http://github.com/JPTrey/startwatch">View on GitHub</a>
         </div>
     </div>
     <hr />
@@ -175,8 +177,7 @@
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <a class="btn btn-primary btn-block" href="http://gasciousapp.azurewebsites.net">Visit this site</a>
-            <br>
-            <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/gascious">View on GitHub</a>
+            <a class="btn btn-default btn-block" href="http://github.com/JPTrey/gascious">View on GitHub</a>
         </div>
     </div>
     <hr />
@@ -207,8 +208,7 @@
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
                 <a class="btn btn-primary btn-block" href="http://mobileawkwardzombie.azurewebsites.net/">Visit this site</a>
-                <br>
-                <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/MAZ">View on GitHub</a>
+                <a class="btn btn-default btn-block" href="http://github.com/JPTrey/MAZ">View on GitHub</a>
             </div>
         </div>
         <hr />
@@ -245,6 +245,7 @@
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <a class="btn btn-primary btn-block" href="http://todo.jptrey.com">Visit this site</a>
+            <a class="btn btn-default btn-block" href="http://github.com/JPTrey/todo">View on GitHub</a>
         </div>
     </div>
     <hr />
@@ -344,19 +345,6 @@
     </div>
 
 
-    <!-- Contact links -->
-
-    <div class="row invert">
-        <h1 class="text-center section">More Info</h1>
-    </div>
-
-    <div class="row">
-        <h1 class="text-center"><a class="weblink" href="{{asset('/Content/Resume.pdf')}}">Resume</a></h1>
-        <h1 class="text-center"><a class="weblink" href="http://onezedone.tumblr.com">Blog</a></h1>
-        <h1 class="text-center"><a class="weblink" href="mailto:jonpaul.simonelli@gmail.com">jonpaul.simonelli@gmail.com</a></h1>
-    </div>
-
-    <div class="row"></div>
 
 
 

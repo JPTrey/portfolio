@@ -97,12 +97,18 @@ hr {
 }
 
 .weblink {
-    color: black;
+    display: inline-block;
+    padding-top: 50px;
 }
 
-.weblink:hover {
+.weblink > a {
+    color: #FFF;
+    padding-right: 100px;
+}
+
+.weblink > a:hover {
     color: gray;
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
 .background-img {
