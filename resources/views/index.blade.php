@@ -65,6 +65,8 @@
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
                 <a class="btn btn-success btn-block" href="http://wjb.jptrey.com">Visit limited preview</a>
+                <br>
+                <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/wjbuilders">View on GitHub</a>
             </div>
         </div>
         <hr />
@@ -97,6 +99,8 @@
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <a class="btn btn-primary btn-block" href="http://shelf.jptrey.com">Visit this site</a>
+            <br>
+            <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/shelf">View on GitHub</a>
         </div>
     </div>
     <hr />
@@ -128,6 +132,8 @@
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <a class="btn btn-primary btn-block" href="http://startwatch.azurewebsites.net">Visit this site</a>
+            <br>
+            <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/startwatch">View on GitHub</a>
         </div>
     </div>
     <hr />
@@ -169,6 +175,8 @@
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <a class="btn btn-primary btn-block" href="http://gasciousapp.azurewebsites.net">Visit this site</a>
+            <br>
+            <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/gascious">View on GitHub</a>
         </div>
     </div>
     <hr />
@@ -199,6 +207,8 @@
         <div class="row">
             <div class="col-sm-4 col-sm-offset-4">
                 <a class="btn btn-primary btn-block" href="http://mobileawkwardzombie.azurewebsites.net/">Visit this site</a>
+                <br>
+                <a class="btn btn-default btn-block" href="http:/github.com/JPTrey/MAZ">View on GitHub</a>
             </div>
         </div>
         <hr />
