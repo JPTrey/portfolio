@@ -23,7 +23,7 @@
             <h1 class="text-center">The Homepage of Jon Paul</h1>
             <h2 class="text-center">Web programmer specializing in PHP, Java, and C# development</h2>
             <div class="text-center">
-                <h2 class="text-left weblink"><a href="{{asset('/Content/Resume.pdf')}}">Resume <span class="glyphicon glyphicon-briefcase"></span></a></h2>
+                <h2 class="text-left weblink"><a href="{{asset('/Content/Resume_2015.pdf')}}">Resume <span class="glyphicon glyphicon-briefcase"></span></a></h2>
                 <h2 class="text-right weblink"><a href="https://www.linkedin.com/pub/jon-paul-simonelli/47/373/a6b">LinkedIn <span class="glyphicon glyphicon-user"></span></a></h2>
                 <h2 class="text-center weblink"><a href="http://onezedone.tumblr.com">Blog <span class="glyphicon glyphicon-align-left"></span></a></h2>
             </div>
