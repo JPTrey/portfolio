@@ -96,13 +96,14 @@ hr {
     width: 100%;
 }
 
-.weblink-invert {
-    color: #e3e3e3;
+.weblink {
+    color: black;
 }
 
-    .weblink-invert:hover {
-        color: #FFF;
-    }
+.weblink:hover {
+    color: gray;
+    text-decoration: none;
+}
 
 .background-img {
     -webkit-background-size: cover;
@@ -131,14 +132,14 @@ hr {
     background-size: cover;
 }
 
-    #hand-img h1 {
-        font-size: 8em;
+#hand-img h1 {
+    font-size: 8em;
     font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
-    }
+}
 
-    #hand-img > h2 {
-        font-size: 3em;
-    }
+#hand-img > h2 {
+    font-size: 3em;
+}
 
 #gascious-img {
     background: transparent url(../Images/gascious-parallax.PNG);
@@ -148,12 +149,20 @@ hr {
     background: transparent url(../Images/wjb.PNG);
 }
 
+#shelf-img {
+    background: transparent url(../Images/shelf.PNG);
+}
+
 #startwatch-img {
     background: transparent url(../Images/startwatch-parallax.PNG);
 }
 
 #laz-img {
     background: transparent url(../Images/laz.PNG);
+}
+
+#todo-img {
+    background: transparent url(../Images/todo.PNG);
 }
 
 #ffeud-img {

@@ -50,7 +50,8 @@
                 <div class="well-invert">
                     <p class="project-tech">Built using:</p>
                     <ul>
-                        <li class="project-tech">Laravel 5, jQuery, HTML 5, CSS 3</li>
+                        <li class="project-tech">Laravel 5</li>
+                        <li class="project-tech">PHP, jQuery, HTML 5, CSS 3</li>
                         <li class="project-tech">Bootstrap 3</li>
                         <li class="project-tech">jCarousel</li>
                     </ul>
@@ -82,7 +83,7 @@
                 <p class="project-tech">Built using:</p>
                 <ul>
                     <li class="project-tech">Laravel 5</li>
-                    <li class="project-tech">Laravel Forge</li>
+                    <!-- <li class="project-tech">Laravel Forge</li> -->
                     <li class="project-tech">C#, jQuery, AJAX, MySQL, HTML 5, CSS</li>
                     <li class="project-tech">Bootstrap 3</li>
                 </ul>
@@ -112,7 +113,7 @@
                 <ul>
                     <li class="project-tech">ASP.NET MVC 5</li>
                     <li class="project-tech">SQL Server 2014</li>
-                    <li class="project-tech">Azure Web Services</li>
+                    <!-- <li class="project-tech">Azure Web Services</li> -->
                     <li class="project-tech">C#, jQuery, AJAX, HTML 5, CSS</li>
                     <li class="project-tech">Bootstrap 3</li>
                     <li class="project-tech">JSChart</li>
@@ -126,7 +127,7 @@
     <br />
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
-            <a class="btn btn-primary btn-block" href="{{url('/StartWatch')}}">Visit this site</a>
+            <a class="btn btn-primary btn-block" href="http://startwatch.azurewebsites.net">Visit this site</a>
         </div>
     </div>
     <hr />
@@ -148,7 +149,7 @@
                 <ul>
                     <li class="project-tech">ASP.NET MVC 5</li>
                     <li class="project-tech">SQL Server 2014</li>
-                    <li class="project-tech">Azure Web Services</li>
+                    <!-- <li class="project-tech">Azure Web Services</li> -->
                     <li class="project-tech">C#, JavaScript, HTML 5, CSS</li>
                     <li class="project-tech">Bootstrap 3</li>
                     <li class="project-tech">JSChart</li>
@@ -167,55 +168,118 @@
     </div>
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
-            <a class="btn btn-primary btn-block" href="http://gascious.jptrey.com">Visit this site</a>
+            <a class="btn btn-primary btn-block" href="http://gasciousapp.azurewebsites.net">Visit this site</a>
         </div>
     </div>
     <hr />
     </div>
     <br />
 
-    <!-- GitHub links -->
-
-    <div class="row">
-        <h1 class="text-center section">Code Respositories</h1>
-    </div>
-
-    <div class="invert">
-        <div class="row">
+     <div class="row">
             <div class="col-sm-5 col-sm-offset-1">
-                <h2 class="text-center project-title">Family Feud</h2>
-                <h3 class="text-center project-tagline">"Survey says...edu-tainment!"</h3>
-                <p class="text-center project-info">
-                    Designed for use by the Skidmore College statistics department,
-                    "Family Feud" is an intuitive toolset for building and running eductional versions of the popular gameshow, complete with dynamic windows and controllers,
-                    sound effects, and questions that can be added, stored, and edited.
-                </p>
-                <div class="well-invert">
+                <h2 class="text-center project-title">(Less) Awkward Zombie</h2>
+                <h3 class="text-center project-tagline">A mobile reading experience that won't eat your brains.</h3>
+                <p class="text-center project-info">Enjoy Katie Tiedrich's long-running "Awkward Zombie" webcomic in this mobile-friendly front-end.</p>
+                <div class="well">
                     <p class="project-tech">Built using:</p>
                     <ul>
-                        <li class="project-tech">Swing</li>
-                        <li class="project-tech">Eclipse</li>
-                        <li class="project-tech">Java</li>
+                        <li class="project-tech">CodeIngiter 2</li>
+                        <li class="project-tech">MySQL (on SQL Server 2014)</li>
+                        <!-- <li class="project-tech">Azure Web Services</li> -->
+                        <li class="project-tech">PHP, HTML 5, CSS</li>
+                        <li class="project-tech">Bootstrap 3</li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-5 col-sm-offset-1">
-                <div class="container" id="ffeud-img"></div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 col-sm-offset-1">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-4 col-sm-offset-4">
-                <a class="btn btn-default btn-block" href="https://github.com/JPTrey/family_feud">View on GitHub</a>
+                <div class="container" id="laz-img"></div>
             </div>
         </div>
         <br />
-    </div>
+        <div class="row">
+            <div class="col-sm-4 col-sm-offset-4">
+                <a class="btn btn-primary btn-block" href="http://mobileawkwardzombie.azurewebsites.net/">Visit this site</a>
+            </div>
+        </div>
+        <hr />
+    <br />
 
-    
+    <div class="invert">
+       <div class="row">
+        <div class="col-sm-5 col-sm-offset-1">
+            <h2 class="text-center project-title">Todo</h2>
+            <h3 class="text-center project-tagline">The dead-simple "to do" list.</h3>
+            <p class="text-center project-info">
+                Always on hand and never lets you lose perspective, use <em>Todo</em> to break down big projects into small tasks, or just to plan your day. 
+                <em>Todo</em> helps you organize your life without requiring specific, tedious planning.
+            </p>
+            <div class="well-invert">
+                <p class="project-tech">Built using:</p>
+                <ul>
+                    <li class="project-tech">Laravel 4.2</li>
+                    <li class="project-tech">MySQL</li>
+                    <!-- <li class="project-tech">Azure Web Services</li> -->
+                    <li class="project-tech">PHP, jQuery, HTML 5, CSS 3</li>
+                    <li class="project-tech">Bootstrap 3</li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-5 col-sm-offset-1">
+            <div class="container" id="todo-img">
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+    </div>
+    <div class="row">
+        <div class="col-sm-4 col-sm-offset-4">
+            <a class="btn btn-primary btn-block" href="http://todo.jptrey.com">Visit this site</a>
+        </div>
+    </div>
+    <hr />
+    </div>
+    <br />
+
+
+    <!-- GitHub links -->
+        <div class="row">
+            <h1 class="text-center section">Code Respositories</h1>
+        </div>
+
+    <div class="row invert">
+        <div class="col-sm-5 col-sm-offset-1">
+            <h2 class="text-center project-title">Family Feud</h2>
+            <h3 class="text-center project-tagline">"Survey says...edu-tainment!"</h3>
+            <p class="text-center project-info">
+                Designed for use by the Skidmore College statistics department,
+                "Family Feud" is an intuitive toolset for building and running eductional versions of the popular gameshow, complete with dynamic windows and controllers,
+                sound effects, and questions that can be added, stored, and edited.
+            </p>
+            <div class="well-invert">
+                <p class="project-tech">Built using:</p>
+                <ul>
+                    <li class="project-tech">Swing</li>
+                    <li class="project-tech">Eclipse</li>
+                    <li class="project-tech">Java</li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-5 col-sm-offset-1">
+            <div class="container" id="ffeud-img"></div>
+        </div>
+    </div>
+    <div class="row invert">
+        <div class="col-sm-6 col-sm-offset-1">
+        </div>
+    </div>
+    <div class="row invert">
+        <div class="col-sm-4 col-sm-offset-4">
+            <a class="btn btn-default btn-block" href="https://github.com/JPTrey/family_feud">View on GitHub</a>
+        </div>
+    </div>
+    <br />
+
         <div class="row">
             <div class="col-sm-4 col-sm-offset-1">
                 <h2 class="text-center project-title">Mall Simulator</h2>
@@ -269,18 +333,6 @@
         </div>
     </div>
 
-    <div class="row">
-    </div>
-    <div class="row">
-    </div>
-    <br />
-
-    <div class="row">
-    <!-- </div> -->
-    <div class="row">
-    </div>
-</div>
-    <br />
 
     <!-- Contact links -->
 
@@ -290,8 +342,8 @@
 
     <div class="row">
         <h1 class="text-center"><a class="weblink" href="{{asset('/Content/Resume.pdf')}}">Resume</a></h1>
-        <h1 class="text-center"><a class="weblink" href="http://onezedone.tumblr.com">Tumblr</a></h1>
-        <h1 class="text-center"><a class="weblink" href="mailto:jonpaul.simonelli@gmail.com">Email</a></h1>
+        <h1 class="text-center"><a class="weblink" href="http://onezedone.tumblr.com">Blog</a></h1>
+        <h1 class="text-center"><a class="weblink" href="mailto:jonpaul.simonelli@gmail.com">jonpaul.simonelli@gmail.com</a></h1>
     </div>
 
     <div class="row"></div>
