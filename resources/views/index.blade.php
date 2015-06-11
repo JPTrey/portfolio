@@ -84,7 +84,7 @@
             <h2 class="text-center project-title">Shelf</h2>
             <h3 class="text-center project-tagline">Read right.</h3>
             <p class="text-center project-info">Store the web to read on your own time. <em>Shelf</em> removes all the excess, 
-            and organizes everything based on how it'll take you to read.</p>
+            and organizes everything based on how long it'll take you to read.</p>
             <div class="well-invert">
                 <p class="project-tech">Built using:</p>
                 <ul>
